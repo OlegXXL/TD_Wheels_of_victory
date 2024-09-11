@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 7720cf216c9b13944874f8e6baf22f43
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation_enemie_var3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 318
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832148a1fbfb175438d58a49a3b89273
+      internalID: 545149666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_enemie_var3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 318
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2a82499aeebf4796b55dc05e276c7
+      internalID: -291872227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_enemie_var3_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 318
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869ba2d90c1d7b42a3b2db17b4d9ccf
+      internalID: -106740063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_enemie_var3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 318
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae91c1a541d194478ed756dc1fec691
+      internalID: -282830088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_enemie_var3_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672ec384b9fd4d47aa626d84ea8d298
+      internalID: -756489736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      animation_enemie_var3_0: 545149666
+      animation_enemie_var3_1: -1805547107
+      animation_enemie_var3_10: 1433698426
+      animation_enemie_var3_11: -1299587895
+      animation_enemie_var3_12: -291872227
+      animation_enemie_var3_13: 1096783207
+      animation_enemie_var3_14: -807480023
+      animation_enemie_var3_15: 1528562389
+      animation_enemie_var3_16: -1492402993
+      animation_enemie_var3_17: -367897409
+      animation_enemie_var3_18: 973481377
+      animation_enemie_var3_19: -1929780356
+      animation_enemie_var3_2: -594087342
+      animation_enemie_var3_20: -2031989268
+      animation_enemie_var3_21: 601782307
+      animation_enemie_var3_22: -682467456
+      animation_enemie_var3_23: -106740063
+      animation_enemie_var3_24: -1742497740
+      animation_enemie_var3_25: 167609158
+      animation_enemie_var3_26: -46708768
+      animation_enemie_var3_27: 943054345
+      animation_enemie_var3_28: 1303720022
+      animation_enemie_var3_29: -510040681
+      animation_enemie_var3_3: -1653765757
+      animation_enemie_var3_30: 176006506
+      animation_enemie_var3_31: 2103174882
+      animation_enemie_var3_32: -282830088
+      animation_enemie_var3_33: -54399709
+      animation_enemie_var3_34: 1769336393
+      animation_enemie_var3_35: -217765632
+      animation_enemie_var3_36: 935065156
+      animation_enemie_var3_37: 956381976
+      animation_enemie_var3_38: -1709602104
+      animation_enemie_var3_39: -41664532
+      animation_enemie_var3_4: -1386914971
+      animation_enemie_var3_40: -374816645
+      animation_enemie_var3_41: -756489736
+      animation_enemie_var3_42: -149025579
+      animation_enemie_var3_5: -370179460
+      animation_enemie_var3_6: -977838412
+      animation_enemie_var3_7: 1219431941
+      animation_enemie_var3_8: 1244054948
+      animation_enemie_var3_9: 17171143
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
